@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xes28
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning javascript, vue and react
+- 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on anything to learn
 - 📫 How to reach me: xavi.escobarserrano@gmail.com
 
