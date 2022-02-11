@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xes28
+- 👋 Hi, I’m @xes28, backend developer with Java
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on anything to learn
